@@ -1,0 +1,6 @@
+python2.7_env/
+python3_env/
+*.pyc
+.idea/
+__init__.py
+ebooks/
