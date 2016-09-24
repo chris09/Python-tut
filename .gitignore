@@ -4,3 +4,7 @@ python3_env/
 .idea/
 __init__.py
 ebooks/
+*.idea/
+Python101/sqlite3/SQLiteStudio/
+*.db
+*.csv
